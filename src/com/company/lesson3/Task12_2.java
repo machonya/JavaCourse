@@ -2,7 +2,7 @@ package com.company.lesson3;
 
 import java.util.Random;
 
-public class Task12 {
+public class Task12_2 {
     public static void main(String[] args) {
         int num = 0;
         int c = 0;
