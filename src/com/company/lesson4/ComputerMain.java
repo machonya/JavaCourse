@@ -7,7 +7,7 @@ public class ComputerMain {
         for (int i = 0; i <= comp.resource; i++) {
 
             comp.isComputerOn();
-            comp.isComputeroff();
+            comp.isComputerOff();
             comp.isComputerFire();
             for (int j = 0; j <= comp.resource; j++) {
                 if (comp.isTrue){

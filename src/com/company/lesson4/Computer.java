@@ -40,7 +40,7 @@ public class Computer {
             rand = random.nextInt(2);
 
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter the number 0 or 1:" + rand);
+            System.out.println("Enter the number 0 or 1:");
             num = scanner.nextInt();
 
 
@@ -59,7 +59,7 @@ public class Computer {
 
     }
 
-    public void isComputeroff() {
+    public void isComputerOff() {
         if (isTrue && on) {
             int rand;
             int num;
@@ -67,7 +67,7 @@ public class Computer {
             rand = random.nextInt(2);
 
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter the number 0 or 1:" + rand);
+            System.out.println("Enter the number 0 or 1:");
             num = scanner.nextInt();
 
 
