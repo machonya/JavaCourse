@@ -12,7 +12,7 @@ public class Task11 {
         }
 
         }
-        System.out.println(c+" - произведение элементов кратных 3");
+        System.out.println(c+" - произведение элементов кратных 3.");
 
     }
 }

@@ -18,6 +18,6 @@ public class Task12 {
 
         }
         a = c/=num;
-        System.out.println(a+" - среднее арифметическое нечетных элементов");
+        System.out.println(a+" - среднее арифметическое нечетных элементов.");
     }
 }
