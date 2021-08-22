@@ -14,11 +14,10 @@ public class Main {
         System.out.println(stas);
         stas.eat(cutlet);
         System.out.println("Stas eats "+cutlet+", hp Stas= "+ stas.getHp());
-        stas.drink();
+
 
         Person misha = new Person("Misha", 30, 182, 72);
         misha.sleep();
-        misha.drink();
         misha.eat(cutlet);
 
 

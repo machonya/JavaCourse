@@ -1,5 +1,8 @@
 package com.company.lesson4_1;
 
+import com.company.adaptation.Kettle;
+import com.company.adaptation.tableware.Cups;
+
 public class Student extends Person{
 
     private int course = 1;
@@ -19,6 +22,6 @@ public class Student extends Person{
     public int intelligence() {
         int intel = course * 10;
         return intel;
-    }
 
+    }
 }
