@@ -1,5 +1,6 @@
 package com.company.lesson3;
 
+import java.util.IllegalFormatCodePointException;
 import java.util.Random;
 
 public class Task04 {
@@ -23,5 +24,23 @@ public class Task04 {
             System.out.print(array[i] + " ");
         }
 
+
+//    }
+//    public Task04 find(int key) {
+//        int hashValue = hashFunc(key)
+//                while (hashArrey[hashValue] != null) {
+//                    if (hashArrey[hashValue].getKey == key)
+//                        return hashArrey[hashValue];
+//                    hashValue++;
+//                    hashValue %= arreySize;
+//                    }
+//                    return null;
+                }
+
     }
-}
+
+
+
+
+
+
