@@ -1,6 +1,6 @@
-package com.company.adaptation.tableware;
+package com.company.adaptation.personForAdaptation.tableware;
 
-public abstract  class TableWare {
+public class TableWare {
     String name;
     float vol;
 
